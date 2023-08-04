@@ -27,3 +27,7 @@ a. User:
 b. Dictionary:
     Fields: ID, key, value
     Description: Stores uniques key-value pair.
+
+3. Instructions to setup the code
+
+4. Instructions to run the code
